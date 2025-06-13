@@ -1,0 +1,34 @@
+[
+    {
+        "package": "EML",
+        "url": "https://github.com/ropensci/EML"
+    },
+    {
+        "package": "emld",
+        "url": "https://github.com/ropensci/emld"
+    },
+    {
+        "package": "metajam",
+        "url": "https://github.com/NCEAS/metajam"
+    },
+    {
+        "package": "datamgmt",
+        "url": "https://github.com/NCEAS/datamgmt"
+    },
+    {
+        "package": "arcticdatautils",
+        "url": "https://github.com/NCEAS/arcticdatautils"
+    },
+    {
+        "package": "codyn",
+        "url": "https://github.com/NCEAS/codyn"
+    },
+    {
+        "package": "flowers",
+        "url": "https://github.com/NCEAS/flowers"
+    },
+    {
+        "package": "rt",
+        "url": "https://github.com/NCEAS/rt"
+    }
+]
