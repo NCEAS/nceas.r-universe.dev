@@ -28,6 +28,10 @@
         "url": "https://github.com/NCEAS/flowers"
     },
     {
+        "package": "vegbankr",
+        "url": "https://github.com/NCEAS/vegbankr"
+    },
+    {
         "package": "rt",
         "url": "https://github.com/NCEAS/rt"
     }
